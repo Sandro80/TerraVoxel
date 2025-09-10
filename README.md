@@ -17,9 +17,8 @@ Technologies Used
 - Perlin noise for terrain generation
 
 ## ▶️ How to Run
-1. Clone this repository:
-   git clone https://github.com/SandroB0/TerraVoxel.git
    unrar asset.rar file
+   pip install ursina
+   pip install perlin-noise
 
-pip install ursina
-python chunk_last.py
+   python chunk_last.py
